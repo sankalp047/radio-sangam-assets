@@ -1,12 +1,7 @@
 {
   "Monday": [
 
-    {
-      "id": "yashini",
-      "name": "Yashini Midday",
-      "time": "12:00–14:00",
-      "image": "tile2"
-    },
+
     {
       "id": "ananth",
       "name": "Ananth Special",
