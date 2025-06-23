@@ -1,0 +1,118 @@
+{
+  "Monday": [
+    {
+      "id": "saravanthi",
+      "name": "Saravanthi Morning",
+      "time": "8:00–10:00",
+      "image": "tile1"
+    },
+    {
+      "id": "yashini",
+      "name": "Yashini Midday",
+      "time": "12:00–14:00",
+      "image": "tile2"
+    },
+    {
+      "id": "ananth",
+      "name": "Ananth Special",
+      "time": "10:00–12:00",
+      "image": "tile5"
+    }
+  ],
+  "Tuesday": [
+    {
+      "id": "madhu",
+      "name": "Madhu Drive",
+      "time": "17:00–19:00",
+      "image": "tile3"
+    },
+    {
+      "id": "hyma",
+      "name": "Hyma Evenings",
+      "time": "19:00–21:00",
+      "image": "tile4"
+    },
+    {
+      "id": "ananth",
+      "name": "Ananth Special",
+      "time": "10:00–12:00",
+      "image": "tile5"
+    }
+  ],
+  "Wednesday": [
+    {
+      "id": "ananth",
+      "name": "Ananth Special",
+      "time": "10:00–12:00",
+      "image": "tile5"
+    },
+    {
+      "id": "sailaja",
+      "name": "Sailaja Secrets",
+      "time": "14:00–16:00",
+      "image": "tile6"
+    }
+  ],
+  "Thursday": [
+    {
+      "id": "saravanthi",
+      "name": "Saravanthi Morning",
+      "time": "8:00–10:00",
+      "image": "tile1"
+    },
+    {
+      "id": "yashini",
+      "name": "Yashini Midday",
+      "time": "12:00–14:00",
+      "image": "tile2"
+    }
+  ],
+  "Friday": [
+    {
+      "id": "madhu",
+      "name": "Madhu Drive",
+      "time": "17:00–19:00",
+      "image": "tile3"
+    },
+    {
+      "id": "hyma",
+      "name": "Hyma Evenings",
+      "time": "19:00–21:00",
+      "image": "tile4"
+    }
+  ],
+  "Saturday": [
+    {
+      "id": "ananth",
+      "name": "Ananth Special",
+      "time": "10:00–12:00",
+      "image": "tile5"
+    },
+    {
+      "id": "sailaja",
+      "name": "Sailaja Secrets",
+      "time": "14:00–16:00",
+      "image": "tile6"
+    }
+  ],
+  "Sunday": [
+    {
+      "id": "saravanthi",
+      "name": "Weekend Wind-down",
+      "time": "16:00–18:00",
+      "image": "tile1"
+    },
+    {
+      "id": "yashini",
+      "name": "Sunday Sounds",
+      "time": "18:00–20:00",
+      "image": "tile2"
+    },
+    {
+      "id": "ananth",
+      "name": "Ananth Special",
+      "time": "10:00–12:00",
+      "image": "tile5"
+    }
+  ]
+}
