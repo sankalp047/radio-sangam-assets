@@ -1,6 +1,11 @@
 {
   "Monday": [
-
+    {
+      "id": "saravanthi",
+      "name": "Saravanthi Morning",
+      "time": "8:00–10:00",
+      "image": "tile1"
+    },
 
     {
       "id": "ananth",
