@@ -1,79 +1,106 @@
 {
   "Monday": [
-    {
-      "id": "saravanthi",
-      "name": "Saravanthi Morning",
-      "time": "8:00–10:00",
-      "image": "https://raw.githubusercontent.com/sankalp047/radio-sangam-assets/main/1.png"
+        {
+      "id": "madhu",
+      "name": "Madhu Drive",
+      "time": "7am to 10am",
+      "image": "tile3"
     },
 
     {
-      "id": "ananth",
-      "name": "Ananth Special",
-      "time": "10:00–12:00",
-      "image": "tile5"
+      "id": "hyma",
+      "name": "Hyma",
+      "time": "11am to 2pm",
+      "image": "tile4"
+    },
+      {
+      "id": "yashini",
+      "name": "Yashini",
+      "time": "2pm to 5pm",
+      "image": "tile2"
     }
   ],
   "Tuesday": [
-    {
+            {
       "id": "madhu",
       "name": "Madhu Drive",
-      "time": "17:00–19:00",
+      "time": "7am to 10am",
       "image": "tile3"
     },
+
     {
       "id": "hyma",
-      "name": "Hyma Evenings",
-      "time": "19:00–21:00",
+      "name": "Hyma",
+      "time": "11am to 2pm",
       "image": "tile4"
     },
-    {
-      "id": "ananth",
-      "name": "Ananth Special",
-      "time": "10:00–12:00",
-      "image": "tile5"
+      {
+      "id": "yashini",
+      "name": "Yashini",
+      "time": "2pm to 5pm",
+      "image": "tile2"
     }
   ],
   "Wednesday": [
-    {
-      "id": "ananth",
-      "name": "Ananth Special",
-      "time": "10:00–12:00",
-      "image": "tile5"
+        {
+      "id": "madhu",
+      "name": "Madhu Drive",
+      "time": "7am to 10am",
+      "image": "tile3"
     },
+
     {
-      "id": "sailaja",
-      "name": "Sailaja Secrets",
-      "time": "14:00–16:00",
-      "image": "tile6"
-    }
-  ],
-  "Thursday": [
-    {
-      "id": "saravanthi",
-      "name": "Saravanthi Morning",
-      "time": "8:00–10:00",
-      "image": "tile1"
+      "id": "hyma",
+      "name": "Hyma",
+      "time": "11am to 2pm",
+      "image": "tile4"
     },
-    {
+      {
       "id": "yashini",
-      "name": "Yashini Midday",
-      "time": "12:00–14:00",
+      "name": "Yashini",
+      "time": "2pm to 5pm",
+      "image": "tile2"
+    } ],
+  "Thursday": [
+        {
+      "id": "madhu",
+      "name": "Madhu Drive",
+      "time": "7am to 10am",
+      "image": "tile3"
+    },
+
+    {
+      "id": "hyma",
+      "name": "Hyma",
+      "time": "11am to 2pm",
+      "image": "tile4"
+    },
+      {
+      "id": "yashini",
+      "name": "Yashini",
+      "time": "2pm to 5pm",
       "image": "tile2"
     }
   ],
   "Friday": [
-    {
+          {
       "id": "madhu",
       "name": "Madhu Drive",
-      "time": "17:00–19:00",
+      "time": "7am to 10am",
       "image": "tile3"
     },
+
     {
       "id": "hyma",
-      "name": "Hyma Evenings",
-      "time": "19:00–21:00",
+      "name": "Hyma",
+      "time": "11am to 2pm",
       "image": "tile4"
+    },
+      {
+      "id": "yashini",
+      "name": "Yashini",
+      "time": "2pm to 5pm",
+      "image": "tile2"
     }
   ],
   "Saturday": [
