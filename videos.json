@@ -1,0 +1,15 @@
+[
+  {
+    "id": "video1",
+    "title": "Radio Sangam Highlights",
+    "youtubeId": "dQw4w9WgXcQ",
+    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg"
+  },
+  {
+    "id": "video2",
+    "title": "Interview with RJ Hyma",
+    "youtubeId": "oHg5SJYRHA0",
+    "thumbnail": "https://img.youtube.com/vi/oHg5SJYRHA0/hqdefault.jpg"
+  }
+  // …add more items here
+]
