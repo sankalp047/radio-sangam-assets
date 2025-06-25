@@ -1,15 +1,15 @@
 [
   {
     "id": "video1",
-    "title": "Radio Sangam Highlights",
+    "title": "Exclusive Interview with Vishnu Manchu",
     "youtubeId": "https://www.youtube.com/watch?v=yOGrcF4Hrfs&t=529s",
-    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg"
+    "thumbnail": "https://www.youtube.com/watch?v=yOGrcF4Hrfs&t=529s"
   },
   {
     "id": "video2",
-    "title": "Interview with RJ Hyma",
-    "youtubeId": "oHg5SJYRHA0",
-    "thumbnail": "https://img.youtube.com/vi/oHg5SJYRHA0/hqdefault.jpg"
-  }
+    "title": "Exclusive Interview with Vishnu Manchu",
+    "youtubeId": "https://www.youtube.com/watch?v=yOGrcF4Hrfs&t=529s",
+    "thumbnail": "https://www.youtube.com/watch?v=yOGrcF4Hrfs&t=529s"
+  },
   // …add more items here
 ]
