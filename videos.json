@@ -7,8 +7,20 @@
   },
   {
     "id": "video2",
-    "title": "Another Great Clip",
-    "youtubeId": "dQw4w9WgXcQ",
-    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg"
+    "title": "Goreti Venkanna Exclusive Interview",
+    "youtubeId": "8qXWoZqr24s",
+    "thumbnail": "https://img.youtube.com/vi/8qXWoZqr24s/hqdefault.jpg"
+  }
+    {
+    "id": "video3",
+    "title": "Srikanth Bolla Radio Sangam Interview",
+    "youtubeId": "OSsiMp0vVBM",
+    "thumbnail": "https://img.youtube.com/vi/OSsiMp0vVBM/hqdefault.jpg"
+  }
+      {
+    "id": "video4",
+    "title": "Rapid Fire with Srikanth Bolla",
+    "youtubeId": "6xwlTH9UBWg",
+    "thumbnail": "https://img.youtube.com/vi/6xwlTH9UBWg/hqdefault.jpg"
   }
 ]
